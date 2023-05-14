@@ -1,4 +1,3 @@
-Great! A README file is an essential part of any project. It provides potential users and contributors with information about your project, how to use it, and how to contribute to it. Here's an example of how you can structure your README file:
 
 # Big Data project
 
